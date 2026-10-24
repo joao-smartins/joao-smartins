@@ -16,6 +16,18 @@
   <img src="./assets/adventure_time_gif.gif" alt="adventure_time_gif" width="1080"/>
 </p>
 
+<div align="right" style="margin: auto">
+  <a href="https://github.com/joao-smartins">
+    <img
+      loading="lazy"
+      height="170em"
+      alt="Most used languages"
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-smartins&layout=compact&langs_count=7&theme=dark"
+    />
+  </a>
+</div>
+
 
 <br>
 <!-- Language and Technologies -->
